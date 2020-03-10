@@ -8,6 +8,7 @@ namespace gitParaIniciantes
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("OI");
+            Console.WriteLine("OI 2");
         }
     }
 }
