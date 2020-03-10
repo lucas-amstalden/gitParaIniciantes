@@ -1,0 +1,11 @@
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.exe
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.deps.json
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.runtimeconfig.json
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.runtimeconfig.dev.json
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.dll
+C:\Projects\gitParaIniciantes\bin\Debug\netcoreapp3.1\gitParaIniciantes.pdb
+C:\Projects\gitParaIniciantes\obj\Debug\netcoreapp3.1\gitParaIniciantes.csprojAssemblyReference.cache
+C:\Projects\gitParaIniciantes\obj\Debug\netcoreapp3.1\gitParaIniciantes.AssemblyInfoInputs.cache
+C:\Projects\gitParaIniciantes\obj\Debug\netcoreapp3.1\gitParaIniciantes.AssemblyInfo.cs
+C:\Projects\gitParaIniciantes\obj\Debug\netcoreapp3.1\gitParaIniciantes.dll
+C:\Projects\gitParaIniciantes\obj\Debug\netcoreapp3.1\gitParaIniciantes.pdb
